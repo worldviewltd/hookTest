@@ -1,0 +1,5 @@
+  worldview_messaging_kit:
+    git: 
+      url: worldviewltd@vs-ssh.visualstudio.com:v3/worldviewltd/Mobile/worldview_messaging_kit
+        ref: develop
+        # path: ../worldview_messaging_kit
